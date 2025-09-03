@@ -1,0 +1,5 @@
+data_base.sql
+passwords.txt
+*.log
+
+# add the file name that you want to ignore from git
